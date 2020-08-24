@@ -1,7 +1,7 @@
 # Nginx-Config
 ## TODOS:
-- [ ] Dockerize Nginx & Certbot
-- [ ] Add letsencrypt ssl.
-- [ ] Auto renewal ssl.
-- [ ] Config reverse proxy.
+- [x] Dockerize Nginx & Certbot
+- [x] Add letsencrypt ssl.
+- [x] Auto renewal ssl.
+- [x] Config reverse proxy.
 - [ ] Cache nextJS front end.
